@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Basenko .5634c9a1\\x64\\Debug\\Library.obj",
+            "outputs": [
+                "Basenko .5634c9a1\\x64\\Debug\\Library.h.obj.dt.module.json",
+                "Basenko .5634c9a1\\x64\\Debug\\Library.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

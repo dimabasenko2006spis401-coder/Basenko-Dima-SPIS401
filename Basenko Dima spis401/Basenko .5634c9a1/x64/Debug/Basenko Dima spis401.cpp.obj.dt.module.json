@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Basenko .5634c9a1\\x64\\Debug\\Basenko Dima spis401.obj",
+            "outputs": [
+                "Basenko .5634c9a1\\x64\\Debug\\Basenko Dima spis401.cpp.obj.dt.module.json",
+                "Basenko .5634c9a1\\x64\\Debug\\Basenko Dima spis401.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
